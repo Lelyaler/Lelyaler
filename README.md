@@ -37,6 +37,7 @@
   <img src="icons/VSCode-Dark.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp;
   <img src="icons/Figma-Light.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp;
   <img src="icons/photoshop.svg" title="photoshop" alt="photoshop" width="40" height="40"/>&nbsp;
+  <img src="icons/canva-icon.svg" title="canva" alt="canva" width="40" height="40"/>&nbsp;
   <img src="icons/openai.svg" title="openai" alt="openai" width="40" height="40"/>&nbsp;
   <img src="icons/Youtube.svg" title="YouTube" alt="YouTube" width="40" height="40"/>&nbsp;
 </div>
