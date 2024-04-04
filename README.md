@@ -14,6 +14,11 @@
 
 :heavy_check_mark: Experience with build tools 
 
+:heavy_check_mark: Proficiency in working with Tailwind CSS
+
+:heavy_check_mark: Experience with WordPress
+
+
 ---
 
 ### 💻 Technologies: 
