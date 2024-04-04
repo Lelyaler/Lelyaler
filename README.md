@@ -1,4 +1,4 @@
-# Hello. I'm Lera :blush: junior web developer
+# Hello. I'm Lera :blush: 
 
 <img src="icons/=).gif" title="git" alt="git" width="200"/>
 
