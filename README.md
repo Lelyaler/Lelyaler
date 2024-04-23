@@ -32,6 +32,7 @@
   <img src="icons/webpack-original.svg" title="webpack" alt="webpack" width="40" height="40"/>&nbsp;
   <img src="icons/gulp.svg" title="gulp" alt="gulp" width="40" height="40"/>&nbsp
   <img src="icons/Git.svg" title="git" alt="git" width="40" height="40"/>&nbsp
+  <img src="icons/wordpress.svg" title="git" alt="git" width="40" height="40"/>&nbsp
 </div>
 
 ---
