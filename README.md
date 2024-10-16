@@ -2,21 +2,24 @@
 
 <img src="icons/=).gif" title="git" alt="git" width="200"/>
 
-### :round_pushpin: My skills:
+### :round_pushpin: My Key Skills:
 
-:heavy_check_mark: Proficient understanding of HTML and CSS, knowledge of HTML semantics, BEM methodology, and CSS styles
-  
-:heavy_check_mark: Work with CSS Grid and Flexbox layout elements
+:heavy_check_mark: **HTML and CSS**: Proficient understanding of semantic HTML, BEM methodology, and writing clean, maintainable code.
 
-:heavy_check_mark: Experience in creating responsive, cross-browser web pages
+:heavy_check_mark: **JavaScript**: Knowledge of JavaScript fundamentals, working with the DOM, and creating interactive elements and animations to enhance user experience (UX).
 
-:heavy_check_mark: Knowledge of CSS preprocessors
+:heavy_check_mark: **Responsive and Cross-Browser Layout**: Experience in creating websites that function correctly across various devices and browsers.
 
-:heavy_check_mark: Experience with build tools 
+:heavy_check_mark: **CSS Grid and Flexbox**: Ability to effectively use CSS Grid and Flexbox to create flexible and adaptive layouts.
 
-:heavy_check_mark: Proficiency in working with Tailwind CSS
+:heavy_check_mark: **CSS Preprocessors**: Experience working with SCSS and LESS for writing modular and scalable code.
 
-:heavy_check_mark: Experience with WordPress
+:heavy_check_mark: **Build Tools**: Experience using Gulp and Webpack for automating development processes and optimizing code.
+
+:heavy_check_mark: **CSS Frameworks**: Proficiency in working with Tailwind CSS for rapid interface development.
+
+:heavy_check_mark: **WordPress and PHP**: Confident in creating websites on WordPress, developing themes from scratch, customizing templates, and configuring functionality using PHP.
+
 
 
 ---
