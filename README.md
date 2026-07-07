@@ -49,7 +49,6 @@ I am a self-taught professional with a proven track record of applying web techn
   <img src="icons/openai.svg" title="openai" alt="openai" width="40" height="40"/>&nbsp;
   <img src="icons/photoshop.svg" title="photoshop" alt="photoshop" width="40" height="40"/>&nbsp;
   <img src="icons/canva-icon.svg" title="canva" alt="canva" width="40" height="40"/>&nbsp;
-  <img src="icons/Youtube.svg" title="YouTube" alt="YouTube" width="40" height="40"/>&nbsp;
 </div>
 
 ---
