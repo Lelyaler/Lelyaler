@@ -1,27 +1,35 @@
-# Hello. I'm Lera :blush: 
+# Hello. I'm Lera :blush:
 
 <img src="icons/=).gif" title="git" alt="git" width="200"/>
 
 ### 🚀 About Me
 
-**Frontend Developer with 3 years of experience** (2 years in iGaming + 1 year of freelancing).
+**Frontend Developer with 3+ years of experience** (iGaming + freelancing).
 
-I specialize in building high-performance, responsive web interfaces and developing custom, scalable solutions on WordPress. My approach combines clean, semantic code with modern engineering practices to ensure websites are fast, secure, and user-friendly.
+I build high-performance, pixel-perfect, and responsive web interfaces. My approach combines clean semantic markup with vanilla JavaScript and robust CMS solutions (WordPress, WooCommerce, PHP, REST API). I also build projects with React + TS.
 
 #### 🛠 What I bring to the table:
 
-*   **Web Development & CMS:** Expert in turning complex Figma designs into pixel-perfect, responsive layouts. Deep expertise in custom WordPress theme and plugin development, using PHP hooks, filters, and the WordPress REST API to extend functionality.
-*   **Modern Tech Stack:** Proficient in Vanilla JavaScript, React (SPA development), and CSS architectures like BEM, SCSS, and Tailwind CSS.
-*   **Performance & Workflow:** Obsessed with speed optimization (Core Web Vitals). I streamline development using modern build tools (Vite, Webpack, Gulp) and automate deployments with Docker and GitLab CI.
-*   **AI-Enhanced Development:** I systematically integrate AI (Claude/LLMs) into my workflow to accelerate coding, debugging, and solving complex architectural challenges.
+*   **Web Development & CMS:** Transforming complex Figma layouts into responsive, interactive, cross-browser web pages. Building custom WordPress themes and plugins using PHP hooks, custom templates, and WooCommerce integrations.
+*   **Modern Tech Stack:** HTML5, SCSS, Tailwind CSS, BEM, and JavaScript (ES6+: DOM manipulation, fetch API, async/await, event delegation). React (components, JSX, hooks) + TypeScript.
+*   **Performance & Workflow:** Optimizing Core Web Vitals (speeding up page load by 30–40%). Proficient with Vite, Docker, and GitLab CI.
+*   **AI-Assisted Development:** Using AI tools (Claude, ChatGPT) to speed up routine tasks and debugging.
 
-I am a self-taught professional with a proven track record of applying web technologies without commercial IT courses. I have developed completed, high-quality projects based on text references and specifications. I am passionate about clean architecture, continuous learning, and optimizing the web for better user experiences.
+#### 🔧 WordPress API & Architecture:
+
+REST API, Rewrite API, WP_Query, $wpdb, HTTP API, WordPress Hooks (actions & filters). OOP (classes, methods), separation of concerns (logic / data / templates), custom Gutenberg blocks, Composer autoloading (PSR-4).
+
+#### ☁️ Cloud & Hosting:
+
+Hosting setup, SSL configuration, domain/DNS management, deployment (shared hosting, VPS).
+
+I'm a self-taught professional with hands-on experience. I've developed completed projects based on text references and specifications. Passionate about clean architecture and continuous learning.
 
 *Always open to collaboration and new challenges!*
 
 ---
 
-### 💻 Technologies: 
+### 💻 Technologies:
 <div>
   <img src="icons/HTML.svg" alt="html5" width="40" height="40"/>&nbsp;
   <img src="icons/CSS.svg" title="css" alt="css" width="40" height="40"/>&nbsp;
