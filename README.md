@@ -25,7 +25,6 @@ Hosting setup, SSL configuration, domain/DNS management, deployment (shared host
 
 I'm a self-taught professional with hands-on experience. I've developed completed projects based on text references and specifications. Passionate about clean architecture and continuous learning.
 
-*Always open to collaboration and new challenges!*
 
 ---
 
