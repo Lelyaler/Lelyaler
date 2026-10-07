@@ -8,7 +8,7 @@
 
 I specialize in building high-performance, responsive web applications with **React**, **TypeScript**, and **Vanilla JavaScript**, as well as scalable CMS solutions on **WordPress & PHP**. My approach combines clean, semantic code, modular architecture, and modern engineering practices to ensure web products are fast, accessible, and user-friendly.
 
-🌐 **Portfolio:** [lelyaler.github.io/Portfolio-rus](https://lelyaler.github.io/Portfolio-rus/)
+🌐 **Portfolio:** [lelyaler.github.io/Portfolio](https://lelyaler.github.io/Portfolio/)
 
 ---
 
