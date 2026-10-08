@@ -6,7 +6,7 @@
 
 **Frontend Developer with 3+ years of commercial experience** (2 years in iGaming + 1 year freelancing & turnkey web development).
 
-I specialize in building clean, high-performance, responsive websites and interactive interfaces with **Vanilla JavaScript (ES6+)**, **HTML5**, **CSS3 / SCSS**, and **Tailwind CSS**, as well as scalable CMS and custom theme solutions on **WordPress & PHP**. My approach focuses on semantic BEM structure, modular clean code, robust asset bundling (**Vite**, **Webpack**, **Gulp**), containerized workflows with **Docker**, and continuous delivery via **Git & CI/CD**.
+I specialize in building clean, high-performance, responsive websites and interactive interfaces with **Vanilla JavaScript (ES6+)**, **HTML5**, **CSS3 / SCSS**, and **Tailwind CSS**, as well as scalable CMS and custom theme solutions on **WordPress & PHP**. My approach focuses on semantic BEM structure, modular clean code, robust asset bundling (**Vite**, **Webpack**), containerized workflows with **Docker**, and continuous delivery via **Git & CI/CD**.
 
 🌐 **Portfolio:** [lelyaler.github.io/Portfolio](https://lelyaler.github.io/Portfolio/)
 
@@ -17,7 +17,7 @@ I specialize in building clean, high-performance, responsive websites and intera
 * **Vanilla JavaScript & Modern DOM:** Deep understanding of pure JavaScript (ES6+), asynchronous programming (Promises, Async/Await), Web APIs (Canvas, Audio, Intersection Observer), and hardware-accelerated animations with **GSAP**.
 * **Responsive HTML5 & Advanced CSS:** Semantic markup, BEM methodology, **Tailwind CSS**, **SCSS / Sass**, CSS Grid & Flexbox, cross-browser compatibility, mobile-first design, and Pixel Perfect precision.
 * **WordPress Architecture & PHP:** Custom theme and plugin engineering from scratch, OOP PHP, Gutenberg blocks, WP_Query, `$wpdb`, Rewrite API, REST API integrations, and WooCommerce setup.
-* **Build Tools, Docker & DevOps:** Automated development and production workflows with **Vite**, **Webpack**, and **Gulp**; containerization with **Docker**; version control and deployment with **Git**, **GitLab CI**, and **GitHub Actions**.
+* **Build Tools, Docker & DevOps:** Automated development and production workflows with **Vite** and **Webpack**; containerization with **Docker**; version control and deployment with **Git**, **GitLab CI**, and **GitHub Actions**.
 * **Web Performance & Optimization:** Core Web Vitals (90+ Lighthouse score), asset compression (WebP/SVG), lazy loading, code-splitting, clean caching policies, and SEO/accessibility (a11y) best practices.
 * **Component Architecture (React & TypeScript):** Scalable modern web applications with React, TypeScript, and automated testing (Vitest).
 
