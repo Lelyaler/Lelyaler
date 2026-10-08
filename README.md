@@ -23,19 +23,6 @@ I specialize in building clean, high-performance, responsive websites and intera
 
 ---
 
-### 🌟 Featured Projects
-
-| Project | Stack & Architecture | Live Demo | Repository |
-| :--- | :--- | :--- | :--- |
-| **SpinPulse VIP** | Vanilla JS logic, Web Audio API, Tailwind CSS, Vite | [Live Demo](https://lelyaler.github.io/SpinPulse/) | [Source](https://github.com/Lelyaler/SpinPulse) |
-| **NOVA Pay** | JavaScript, GSAP, CSS 3D, Web Audio NFC, Vite | [Live Demo](https://lelyaler.github.io/Animation/) | [Source](https://github.com/Lelyaler/Animation) |
-| **Techwear Store** | JavaScript, PWA, Web Audio API, Canvas 2D, Vite | [Live Demo](https://lelyaler.github.io/techwear-store/) | [Source](https://github.com/Lelyaler/techwear-store) |
-| **Edufree EdTech** | Tailwind CSS, HTML5, Modern JavaScript | [Live Demo](https://lelyaler.github.io/tailwind-site/) | [Source](https://github.com/Lelyaler/tailwind-site) |
-| **Sneakmax Store** | HTML5, SCSS, JavaScript, Quiz, Modal Windows | [Live Demo](https://lelyaler.github.io/Sneakmax/) | [Source](https://github.com/Lelyaler/Sneakmax) |
-| **GameVault** | React 19, TypeScript, Tailwind 4, Vitest, Gamepad API | [Live Demo](https://lelyaler.github.io/React-TypeScript/) | [Source](https://github.com/Lelyaler/React-TypeScript) |
-
----
-
 ### 💻 Technologies & Stack:
 
 <div>
