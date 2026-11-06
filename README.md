@@ -4,22 +4,24 @@
 
 ### 🚀 About Me
 
-**Frontend Developer with 3+ years of commercial experience** (2 years in iGaming + 1 year freelancing & turnkey web development).
+**WordPress & Frontend Developer with 4+ years of commercial experience** (2 years in high-traffic iGaming + client & e-commerce projects).
 
-I specialize in building clean, high-performance, responsive websites and interactive interfaces with **Vanilla JavaScript (ES6+)**, **HTML5**, **CSS3 / SCSS**, and **Tailwind CSS**, as well as scalable CMS and custom theme solutions on **WordPress & PHP**. My approach focuses on semantic BEM structure, modular clean code, robust asset bundling (**Vite**, **Webpack**), containerized workflows with **Docker**, and continuous delivery via **Git & CI/CD**.
+I build fast, responsive, and reliable web interfaces with **Vanilla JavaScript (ES6+)**, **HTML5**, and modern **CSS3**, backed by custom CMS architectures on **WordPress & PHP** and **WooCommerce** (without heavy page builders). I prioritize clean, lightweight native code for maximum performance and zero overhead, while utilizing **SCSS**, **Tailwind CSS**, and **BEM** when required by project guidelines. My workflows include robust asset bundling (**Vite**, **Webpack**), containerization with **Docker**, and continuous deployment via **GitLab CI** and **Git**.
 
-🌐 **Portfolio:** [lelyaler.github.io/Portfolio](https://lelyaler.github.io/Portfolio/)
+🌐 **Portfolio:** [lelyaler.github.io/Portfolio](https://lelyaler.github.io/Portfolio/?lang=en)  
+📄 **CV:** [lelyaler.github.io/cv](https://lelyaler.github.io/cv/)  
+💼 **LinkedIn:** [linkedin.com/in/lelyaler](https://linkedin.com/in/lelyaler)
 
 ---
 
 #### 🛠 Core Expertise:
 
-* **Vanilla JavaScript & Modern DOM:** Deep understanding of pure JavaScript (ES6+), asynchronous programming (Promises, Async/Await), Web APIs (Canvas, Audio, Intersection Observer), and hardware-accelerated animations with **GSAP**.
-* **Responsive HTML5 & Advanced CSS:** Semantic markup, BEM methodology, **Tailwind CSS**, **SCSS / Sass**, CSS Grid & Flexbox, cross-browser compatibility, mobile-first design, and Pixel Perfect precision.
-* **WordPress Architecture & PHP:** Custom theme and plugin engineering from scratch, OOP PHP, Gutenberg blocks, WP_Query, `$wpdb`, Rewrite API, REST API integrations, and WooCommerce setup.
-* **Build Tools, Docker & DevOps:** Automated development and production workflows with **Vite** and **Webpack**; containerization with **Docker**; version control and deployment with **Git**, **GitLab CI**, and **GitHub Actions**.
-* **Web Performance & Optimization:** Core Web Vitals (90+ Lighthouse score), asset compression (WebP/SVG), lazy loading, code-splitting, clean caching policies, and SEO/accessibility (a11y) best practices.
-* **Component Architecture (React & TypeScript):** Scalable modern web applications with React, TypeScript, and automated testing (Vitest).
+* **Vanilla JavaScript & Modern DOM:** Deep understanding of pure JavaScript (ES6+), asynchronous programming (Promises, Async/Await), Web APIs (Canvas, Audio, Intersection Observer), and smooth animations with **GSAP**.
+* **Responsive HTML5 & Modern CSS:** Semantic markup, Mobile-First approach (90%+ traffic), high fidelity to Figma design mockups, CSS Grid & Flexbox, **SCSS / Sass**, **Tailwind CSS**, and BEM methodology.
+* **WordPress Architecture & PHP:** Custom theme and plugin engineering from scratch, clean template hierarchy, custom Gutenberg blocks with ACF Pro, WP_Query, `$wpdb`, REST API endpoints, and WooCommerce setup without heavy builders.
+* **Web Performance & Optimization:** Core Web Vitals optimization (reducing LCP, eliminating CLS, accelerating load times by 30–40%), modern asset compression (WebP/AVIF), critical rendering path tuning, and clean caching policies (WP Rocket, Cloudflare CDN).
+* **Technical SEO & Microdata:** Schema.org (JSON-LD) structured data for rich snippets, OpenGraph, multilingual architectures (WPML / Polylang), canonical/hreflang tags, and indexing control via Google Search Console.
+* **Build Tools, Docker & DevOps:** Automated build pipelines with **Vite** and **Webpack**; containerization with **Docker**; version control and deployment with **Git**, **GitLab CI**, and **Linux/VPS** administration.
 
 ---
 
@@ -29,16 +31,17 @@ I specialize in building clean, high-performance, responsive websites and intera
   <img src="icons/JavaScript.svg" alt="JavaScript" title="JavaScript (ES6+)" width="40" height="40"/>&nbsp;
   <img src="icons/HTML.svg" alt="HTML5" title="HTML5" width="40" height="40"/>&nbsp;
   <img src="icons/CSS.svg" alt="CSS3" title="CSS3" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" alt="PHP" title="PHP" width="40" height="40"/>&nbsp;
+  <img src="icons/wordpress.svg" alt="WordPress" title="WordPress" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/woocommerce/woocommerce-original.svg" alt="WooCommerce" title="WooCommerce" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" title="Tailwind CSS" width="40" height="40"/>&nbsp;
   <img src="icons/Sass.svg" alt="Sass / SCSS" title="Sass / SCSS" width="40" height="40"/>&nbsp;
-  <img src="icons/wordpress.svg" alt="WordPress" title="WordPress" width="40" height="40"/>&nbsp;
-  <img src="icons/webpack-original.svg" alt="Webpack" title="Webpack" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" alt="Vite" title="Vite" width="40" height="40"/>&nbsp;
-  <img src="icons/gulp.svg" alt="Gulp" title="Gulp" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker" title="Docker" width="40" height="40"/>&nbsp;
-  <img src="icons/Git.svg" alt="Git" title="Git" width="40" height="40"/>&nbsp;
   <img src="icons/typescript.svg" alt="TypeScript" title="TypeScript" width="40" height="40"/>&nbsp;
   <img src="icons/React-Dark.svg" alt="React" title="React" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" alt="Vite" title="Vite" width="40" height="40"/>&nbsp;
+  <img src="icons/webpack-original.svg" alt="Webpack" title="Webpack" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker" title="Docker" width="40" height="40"/>&nbsp;
+  <img src="icons/Git.svg" alt="Git" title="Git" width="40" height="40"/>&nbsp;
 </div>
 
 ---
@@ -61,3 +64,4 @@ I specialize in building clean, high-performance, responsive websites and intera
 📫 **Get in touch:**
 - Email: [lelyaler@gmail.com](mailto:lelyaler@gmail.com)
 - Telegram: [@lelyaler](https://t.me/lelyaler)
+- LinkedIn: [linkedin.com/in/lelyaler](https://linkedin.com/in/lelyaler)
