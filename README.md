@@ -19,7 +19,7 @@ I build fast, responsive, and reliable web interfaces with **Vanilla JavaScript 
 * **Vanilla JavaScript & Modern DOM:** Deep understanding of pure JavaScript (ES6+), asynchronous programming (Promises, Async/Await), Web APIs (Canvas, Audio, Intersection Observer), and smooth animations with **GSAP**.
 * **Responsive HTML5 & Modern CSS:** Semantic markup, Mobile-First approach (90%+ traffic), high fidelity to Figma design mockups, CSS Grid & Flexbox, **SCSS / Sass**, **Tailwind CSS**, and BEM methodology.
 * **WordPress Architecture & PHP:** Custom theme and plugin engineering from scratch, clean template hierarchy, custom Gutenberg blocks with ACF Pro, WP_Query, `$wpdb`, REST API endpoints, and WooCommerce setup without heavy builders.
-* **Web Performance & Optimization:** Core Web Vitals optimization (reducing LCP, eliminating CLS, accelerating load times by 30–40%), modern asset compression (WebP/AVIF), critical rendering path tuning, and clean caching policies (WP Rocket, Cloudflare CDN).
+* **Web Performance & Optimization:** Core Web Vitals optimization (reducing LCP, eliminating CLS, accelerating load times by 30-40%), modern asset compression (WebP/AVIF), critical rendering path tuning, and clean caching policies (WP Rocket, Cloudflare CDN).
 * **Technical SEO & Microdata:** Schema.org (JSON-LD) structured data for rich snippets, OpenGraph, multilingual architectures (WPML / Polylang), canonical/hreflang tags, and indexing control via Google Search Console.
 * **Build Tools, Docker & DevOps:** Automated build pipelines with **Vite** and **Webpack**; containerization with **Docker**; version control and deployment with **Git**, **GitLab CI**, and **Linux/VPS** administration.
 
